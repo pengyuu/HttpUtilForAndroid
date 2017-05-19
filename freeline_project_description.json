@@ -1,0 +1,145 @@
+{
+    "android_gradle_plugin_version": "2.2.0",
+    "apk_path": "E:\\ASprogects\\hss01248\\NetWrapper\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": true
+    },
+    "auto_dependency": false,
+    "build_cache_dir": "E:\\ASprogects\\hss01248\\NetWrapper\\app\\build\\freeline",
+    "build_directory": "E:\\ASprogects\\hss01248\\NetWrapper\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "E:\\development\\Android\\sdk\\build-tools\\23.0.1",
+    "build_tools_version": "23.0.1",
+    "compile_sdk_directory": "E:\\development\\Android\\sdk\\platforms\\android-23",
+    "compile_sdk_version": "android-23",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.hss01248.netWrapper",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "E:\\ASprogects\\hss01248\\NetWrapper",
+    "freeline_gradle_plugin_version": "0.8.5",
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_31",
+    "launcher": "com.hss01248.netdemo.MainActivity",
+    "main_assets_directory": [
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\assets",
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\jniLibs",
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\jni",
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "E:\\ASprogects\\hss01248\\NetWrapper\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\res",
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\java",
+        "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            "netwrapper2"
+        ],
+        "netwrapper2": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "E:\\ASprogects\\hss01248\\NetWrapper\\app"
+        },
+        {
+            "name": "netwrapper2",
+            "path": "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2"
+        }
+    ],
+    "package": "com.hss01248.netdemo",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\assets",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\jniLibs",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\jni",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\res",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\debug\\java",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\app\\src\\main\\java"
+            ]
+        },
+        "netwrapper2": {
+            "main_assets_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\release\\assets",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\release\\jniLibs",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\release\\jni",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\main\\jni"
+            ],
+            "main_manifest_path": "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\release\\res",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\release\\java",
+                "E:\\ASprogects\\hss01248\\NetWrapper\\netwrapper2\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "E:\\ASprogects\\hss01248\\NetWrapper",
+    "sdk_directory": "E:\\development\\Android\\sdk",
+    "use_jdk8": true
+}
